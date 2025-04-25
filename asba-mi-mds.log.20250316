@@ -1,0 +1,112 @@
+2025-03-16 08:59:26,038~[https-jsse-nio-8109-exec-45]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 08:59:26,040~[https-jsse-nio-8109-exec-43]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 08:59:39,484~[https-jsse-nio-8109-exec-34]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 08:59:39,681~[https-jsse-nio-8109-exec-25]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 08:59:45,981~[https-jsse-nio-8109-exec-38]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 08:59:45,988~[https-jsse-nio-8109-exec-15]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 08:59:59,447~[https-jsse-nio-8109-exec-24]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 08:59:59,536~[https-jsse-nio-8109-exec-29]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:05,791~[https-jsse-nio-8109-exec-8]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:05,870~[https-jsse-nio-8109-exec-48]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:11,032~[https-jsse-nio-8109-exec-11]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:19,519~[https-jsse-nio-8109-exec-41]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:19,561~[https-jsse-nio-8109-exec-5]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:26,007~[https-jsse-nio-8109-exec-26]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:26,008~[https-jsse-nio-8109-exec-20]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:39,542~[https-jsse-nio-8109-exec-12]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:39,625~[https-jsse-nio-8109-exec-15]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:45,934~[https-jsse-nio-8109-exec-50]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:45,946~[https-jsse-nio-8109-exec-19]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:59,581~[https-jsse-nio-8109-exec-27]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:59,582~[https-jsse-nio-8109-exec-48]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:05,777~[https-jsse-nio-8109-exec-17]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:05,878~[https-jsse-nio-8109-exec-41]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:19,521~[https-jsse-nio-8109-exec-10]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:19,581~[https-jsse-nio-8109-exec-32]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:25,960~[https-jsse-nio-8109-exec-30]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:25,962~[https-jsse-nio-8109-exec-39]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:39,532~[https-jsse-nio-8109-exec-16]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:39,608~[https-jsse-nio-8109-exec-3]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:45,964~[https-jsse-nio-8109-exec-4]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:45,967~[https-jsse-nio-8109-exec-19]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:59,547~[https-jsse-nio-8109-exec-48]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 20480 bytes (threshold: 10485760B)
+2025-03-16 09:01:59,637~[https-jsse-nio-8109-exec-17]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 20480 bytes (threshold: 10485760B)
+2025-03-16 11:41:33,956~[https-jsse-nio-8109-exec-17]~INFO ~adis.pmd.mds.controllers.MdsInternalController~[]~Neopravneny pristup uzivatele H3PEJQHDUU6N k aplikacnimu uctu 72049031.
+2025-03-16 16:51:00,732~[https-jsse-nio-8109-exec-48]~INFO ~adis.pmd.mds.controllers.MdsInternalController~[]~Neopravneny pristup uzivatele MIUZ58RWD6N6 k aplikacnimu uctu 5812071034.
+2025-03-16 17:44:31,482~[https-jsse-nio-8109-exec-23]~INFO ~adis.pmd.mds.controllers.MdsInternalController~[]~Neopravneny pristup uzivatele IZ25L9AWY3VR k aplikacnimu uctu 9508240170.
+2025-03-16 18:06:22,975~[https-jsse-nio-8109-exec-21]~WARN ~adis.pmd.security.PmdAuthenticationFilter~[]~Neoprávnìný pøístup k aplikaènímu úètu 6205020393 u¾ivatelem id NA5HJY3S1V3N. URI: /mds/aut/api/dis/6205020393/detail/
+2025-03-16 18:06:22,981~[https-jsse-nio-8109-exec-21]~WARN ~adis.pmd.security.PmdAuthenticationFilter~[]~Neúspì¹ná autentizace: Neopravneny pristup., URI: /mds/aut/api/dis/6205020393/detail/
+adis.pmd.exception.ForbiddenException: Neopravneny pristup.
+	at adis.pmd.security.PmdAuthenticationFilter.attemptAuthentication(PmdAuthenticationFilter.java:168) ~[asbl-pmd-lib-45.3.1-SNAPSHOT.jar!/:?]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:227) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:217) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at adis.pmd.config.PmdRequestCheckFilter.doFilter(PmdRequestCheckFilter.java:95) ~[asbl-pmd-lib-45.3.1-SNAPSHOT.jar!/:?]
+	at adis.pmd.config.PmdRequestCheckFilter.doFilter(PmdRequestCheckFilter.java:75) ~[asbl-pmd-lib-45.3.1-SNAPSHOT.jar!/:?]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:149) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.security.web.authentication.preauth.AbstractPreAuthenticatedProcessingFilter.doFilter(AbstractPreAuthenticatedProcessingFilter.java:146) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91) ~[spring-web-5.3.31.jar!/:5.3.31]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.31.jar!/:5.3.31]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.31.jar!/:5.3.31]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:112) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:82) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.31.jar!/:5.3.31]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.31.jar!/:5.3.31]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:221) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:186) ~[spring-security-web-5.7.11.jar!/:5.7.11]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:354) ~[spring-web-5.3.31.jar!/:5.3.31]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:267) ~[spring-web-5.3.31.jar!/:5.3.31]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.31.jar!/:5.3.31]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.31.jar!/:5.3.31]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.31.jar!/:5.3.31]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.31.jar!/:5.3.31]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.springframework.cloud.sleuth.instrument.web.servlet.TracingFilter.doFilter(TracingFilter.java:68) ~[spring-cloud-sleuth-instrumentation-3.1.9.jar!/:3.1.9]
+	at org.springframework.cloud.sleuth.autoconfig.instrument.web.TraceWebServletConfiguration$LazyTracingFilter.doFilter(TraceWebServletConfiguration.java:131) ~[spring-cloud-sleuth-autoconfigure-3.1.9.jar!/:3.1.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96) ~[spring-boot-actuator-2.7.18.jar!/:2.7.18]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.31.jar!/:5.3.31]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.31.jar!/:5.3.31]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.31.jar!/:5.3.31]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.springframework.cloud.sleuth.instrument.web.tomcat.TraceValve.invoke(TraceValve.java:103) ~[spring-cloud-sleuth-instrumentation-3.1.9.jar!/:3.1.9]
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:765) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:928) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1794) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.83.jar!/:?]
+	at java.lang.Thread.run(Thread.java:857) ~[?:?]

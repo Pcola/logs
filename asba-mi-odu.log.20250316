@@ -1,0 +1,105 @@
+2025-03-16 00:00:39,463~[https-jsse-nio-8107-exec-3]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 00:03:25,354~[https-jsse-nio-8107-exec-25]~WARN ~adis.nt.spisodu.entity.TIStavoduR~[]~Druh pøíjmu (c_drp = 490) nebyl nalezen v èíselníku druhù pøíjmù (t_p_dpnd).
+2025-03-16 08:10:52,710~[task-1201]~WARN ~adis.nt.odu.service.OduService~[]~Zápis aktivity exportu detailu obratù ODÚ se nepodaøil.
+2025-03-16 08:59:25,738~[https-jsse-nio-8107-exec-39]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 4923392 bytes (threshold: 10485760B)
+2025-03-16 08:59:26,025~[https-jsse-nio-8107-exec-1]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 08:59:39,569~[https-jsse-nio-8107-exec-21]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 08:59:39,598~[https-jsse-nio-8107-exec-29]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 08:59:45,982~[https-jsse-nio-8107-exec-18]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 08:59:45,989~[https-jsse-nio-8107-exec-19]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 08:59:59,548~[https-jsse-nio-8107-exec-4]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 08:59:59,560~[https-jsse-nio-8107-exec-2]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:05,867~[https-jsse-nio-8107-exec-34]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:05,869~[https-jsse-nio-8107-exec-42]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:11,030~[https-jsse-nio-8107-exec-38]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:19,530~[https-jsse-nio-8107-exec-47]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:19,631~[https-jsse-nio-8107-exec-14]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:25,987~[https-jsse-nio-8107-exec-15]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:25,988~[https-jsse-nio-8107-exec-16]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:39,554~[https-jsse-nio-8107-exec-27]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:39,618~[https-jsse-nio-8107-exec-41]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:45,834~[https-jsse-nio-8107-exec-32]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:45,924~[https-jsse-nio-8107-exec-4]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:59,602~[https-jsse-nio-8107-exec-5]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:00:59,621~[https-jsse-nio-8107-exec-34]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:05,779~[https-jsse-nio-8107-exec-31]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:05,910~[https-jsse-nio-8107-exec-20]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:19,532~[https-jsse-nio-8107-exec-25]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:19,535~[https-jsse-nio-8107-exec-45]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:25,966~[https-jsse-nio-8107-exec-17]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:25,968~[https-jsse-nio-8107-exec-29]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:39,708~[https-jsse-nio-8107-exec-19]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:39,710~[https-jsse-nio-8107-exec-33]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:45,972~[https-jsse-nio-8107-exec-3]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:45,974~[https-jsse-nio-8107-exec-2]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 0 bytes (threshold: 10485760B)
+2025-03-16 09:01:59,546~[https-jsse-nio-8107-exec-22]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 20480 bytes (threshold: 10485760B)
+2025-03-16 09:01:59,606~[https-jsse-nio-8107-exec-35]~WARN ~org.springframework.boot.actuate.system.DiskSpaceHealthIndicator~[]~Free disk space below threshold. Available: 20480 bytes (threshold: 10485760B)
+2025-03-16 09:48:50,937~[https-jsse-nio-8107-exec-11]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 09:59:41,547~[https-jsse-nio-8107-exec-43]~INFO ~adis.nt.odu.service.OduService~[]~Pøístup bez DS.
+2025-03-16 10:41:07,929~[https-jsse-nio-8107-exec-29]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 10:50:45,954~[https-jsse-nio-8107-exec-23]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 12:12:31,937~[https-jsse-nio-8107-exec-24]~INFO ~adis.nt.odu.service.OduService~[]~Pøístup bez DS.
+2025-03-16 12:24:01,668~[https-jsse-nio-8107-exec-5]~WARN ~adis.nt.spisodu.entity.TIStavoduR~[]~Druh pøíjmu (c_drp = 490) nebyl nalezen v èíselníku druhù pøíjmù (t_p_dpnd).
+2025-03-16 12:24:54,446~[https-jsse-nio-8107-exec-37]~WARN ~adis.nt.spisodu.entity.TIStavoduR~[]~Druh pøíjmu (c_drp = 490) nebyl nalezen v èíselníku druhù pøíjmù (t_p_dpnd).
+2025-03-16 13:01:14,600~[https-jsse-nio-8107-exec-15]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 13:10:42,977~[https-jsse-nio-8107-exec-17]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 13:11:49,500~[https-jsse-nio-8107-exec-13]~WARN ~adis.nt.spisodu.entity.TIStavoduR~[]~Druh pøíjmu (c_drp = 490) nebyl nalezen v èíselníku druhù pøíjmù (t_p_dpnd).
+2025-03-16 13:12:40,967~[https-jsse-nio-8107-exec-24]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 13:12:56,557~[https-jsse-nio-8107-exec-13]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 13:14:09,359~[https-jsse-nio-8107-exec-6]~WARN ~adis.nt.spisodu.entity.TIStavoduR~[]~Druh pøíjmu (c_drp = 490) nebyl nalezen v èíselníku druhù pøíjmù (t_p_dpnd).
+2025-03-16 13:18:52,761~[https-jsse-nio-8107-exec-14]~WARN ~adis.nt.spisodu.entity.TIStavoduR~[]~Druh pøíjmu (c_drp = 490) nebyl nalezen v èíselníku druhù pøíjmù (t_p_dpnd).
+2025-03-16 13:19:05,936~[https-jsse-nio-8107-exec-33]~WARN ~adis.nt.spisodu.entity.TIStavoduR~[]~Druh pøíjmu (c_drp = 490) nebyl nalezen v èíselníku druhù pøíjmù (t_p_dpnd).
+2025-03-16 13:26:31,600~[https-jsse-nio-8107-exec-34]~WARN ~adis.nt.spisodu.entity.TIStavoduR~[]~Druh pøíjmu (c_drp = 490) nebyl nalezen v èíselníku druhù pøíjmù (t_p_dpnd).
+2025-03-16 13:45:49,368~[https-jsse-nio-8107-exec-29]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 14:01:37,403~[https-jsse-nio-8107-exec-13]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 14:17:29,380~[https-jsse-nio-8107-exec-16]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 14:18:31,549~[https-jsse-nio-8107-exec-39]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 14:38:35,138~[https-jsse-nio-8107-exec-34]~INFO ~adis.nt.odu.service.OduService~[]~Pøístup bez DS.
+2025-03-16 15:59:46,274~[https-jsse-nio-8107-exec-10]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 16:05:22,244~[https-jsse-nio-8107-exec-30]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 16:15:28,256~[https-jsse-nio-8107-exec-35]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 16:15:28,305~[https-jsse-nio-8107-exec-8]~INFO ~adis.nt.odu.service.OduService~[]~Pøístup bez DS.
+2025-03-16 16:20:29,064~[https-jsse-nio-8107-exec-2]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 16:20:58,027~[https-jsse-nio-8107-exec-12]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 16:21:04,887~[https-jsse-nio-8107-exec-19]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 16:21:29,851~[https-jsse-nio-8107-exec-41]~INFO ~adis.nt.odu.service.OduService~[]~Pøístup bez DS.
+2025-03-16 16:28:27,083~[https-jsse-nio-8107-exec-46]~INFO ~adis.nt.odu.service.OduService~[]~Pøístup bez DS.
+2025-03-16 16:34:42,908~[https-jsse-nio-8107-exec-25]~INFO ~adis.nt.odu.service.OduService~[]~Pøístup bez DS.
+2025-03-16 16:40:50,057~[https-jsse-nio-8107-exec-4]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 16:41:15,735~[https-jsse-nio-8107-exec-36]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 16:43:45,386~[https-jsse-nio-8107-exec-17]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 16:44:16,961~[https-jsse-nio-8107-exec-2]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 16:52:08,692~[https-jsse-nio-8107-exec-2]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 16:55:40,245~[https-jsse-nio-8107-exec-29]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 16:56:03,517~[https-jsse-nio-8107-exec-17]~INFO ~adis.nt.odu.service.OduService~[]~Pøístup bez DS.
+2025-03-16 16:56:06,948~[https-jsse-nio-8107-exec-19]~INFO ~adis.nt.odu.service.OduService~[]~Pøístup bez DS.
+2025-03-16 16:56:13,167~[https-jsse-nio-8107-exec-16]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 17:05:13,576~[task-1212]~WARN ~adis.nt.odu.service.OduService~[]~Zápis aktivity exportu detailu obratù ODÚ se nepodaøil.
+2025-03-16 17:14:00,267~[https-jsse-nio-8107-exec-33]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 17:15:03,470~[https-jsse-nio-8107-exec-31]~INFO ~adis.nt.odu.service.OduService~[]~Pøístup bez DS.
+2025-03-16 17:15:49,206~[https-jsse-nio-8107-exec-9]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 17:33:38,655~[https-jsse-nio-8107-exec-36]~WARN ~adis.nt.spisodu.entity.TIStavoduR~[]~Druh pøíjmu (c_drp = 490) nebyl nalezen v èíselníku druhù pøíjmù (t_p_dpnd).
+2025-03-16 18:10:32,146~[https-jsse-nio-8107-exec-9]~INFO ~adis.nt.odu.service.OduService~[]~Pøístup bez DS.
+2025-03-16 18:13:25,670~[https-jsse-nio-8107-exec-3]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 18:17:09,898~[https-jsse-nio-8107-exec-1]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 18:20:20,314~[https-jsse-nio-8107-exec-34]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 18:23:06,467~[https-jsse-nio-8107-exec-34]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 18:25:38,000~[https-jsse-nio-8107-exec-6]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 18:42:45,921~[https-jsse-nio-8107-exec-46]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 18:56:34,639~[https-jsse-nio-8107-exec-38]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 19:29:07,478~[https-jsse-nio-8107-exec-24]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 19:29:09,887~[https-jsse-nio-8107-exec-46]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 19:31:28,804~[https-jsse-nio-8107-exec-4]~INFO ~adis.nt.odu.service.OduService~[]~Pøístup bez DS.
+2025-03-16 19:35:08,933~[https-jsse-nio-8107-exec-29]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 19:39:20,353~[https-jsse-nio-8107-exec-7]~WARN ~adis.nt.spisodu.entity.TIStavoduR~[]~Druh pøíjmu (c_drp = 490) nebyl nalezen v èíselníku druhù pøíjmù (t_p_dpnd).
+2025-03-16 19:50:40,584~[https-jsse-nio-8107-exec-21]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 20:49:41,422~[https-jsse-nio-8107-exec-42]~INFO ~adis.nt.odu.service.OduService~[]~Pøístup bez DS.
+2025-03-16 22:20:41,935~[https-jsse-nio-8107-exec-44]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 22:21:03,893~[https-jsse-nio-8107-exec-12]~INFO ~adis.nt.odu.service.OduService~[]~Pøístup bez DS.
+2025-03-16 22:21:08,761~[https-jsse-nio-8107-exec-43]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 22:35:45,317~[https-jsse-nio-8107-exec-16]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 22:39:37,856~[https-jsse-nio-8107-exec-42]~INFO ~adis.nt.odu.service.OduService~[]~Pøístup bez DS.
+2025-03-16 23:04:39,065~[https-jsse-nio-8107-exec-12]~INFO ~adis.nt.odu.service.OduService~[]~Pøístup bez DS.
+2025-03-16 23:34:17,055~[https-jsse-nio-8107-exec-23]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
+2025-03-16 23:49:14,227~[https-jsse-nio-8107-exec-31]~INFO ~adis.nt.odu.service.OduService~[]~Pøístup bez DS.
+2025-03-16 23:49:55,646~[https-jsse-nio-8107-exec-19]~INFO ~adis.nt.odu.controller.OduController~[]~Pøístup bez DS.
