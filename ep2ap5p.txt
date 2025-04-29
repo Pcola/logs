@@ -1,0 +1,46 @@
+ep2ap5p:/root # errpt -a |more
+---------------------------------------------------------------------------
+LABEL:          J2_FS_FULL
+IDENTIFIER:     F7FA22C9
+ 
+Date/Time:       Ne 16 bøe 2025 08:59:25
+Sequence Number: 5918
+Machine Id:      00FBFE984B00
+Node Id:         ep2ap5p
+Class:           O
+Type:            INFO
+WPAR:            Global
+Resource Name:   SYSJ2
+ 
+Description
+UNABLE TO ALLOCATE SPACE IN FILE SYSTEM
+ 
+Probable Causes
+FILE SYSTEM FULL
+ 
+        Recommended Actions
+        INCREASE THE SIZE OF THE ASSOCIATED FILE SYSTEM
+        REMOVE UNNECESSARY DATA FROM FILE SYSTEM
+        USE FUSER UTILITY TO LOCATE UNLINKED FILES STILL REFERENCED
+ 
+Detail Data
+JFS2 MAJOR/MINOR DEVICE NUMBER
+000A 0007
+FILE SYSTEM DEVICE AND MOUNT POINT
+/dev/hd3, /tmp
+
+ep2ap5p:/root # df -g
+Filesystem    GB blocks      Free %Used    Iused %Iused Mounted on
+/dev/hd4           2,00      1,88    6%     6577     2% /
+/dev/hd2           5,00      1,38   73%    59904    15% /usr
+/dev/hd9var        4,00      3,22   20%     1544     1% /var
+/dev/hd3           4,00      3,96    1%      281     1% /tmp
+/dev/hd1           0,50      0,50    1%       20     1% /home
+/dev/hd11admin      0,50      0,50    1%        5     1% /admin
+/proc                 -         -    -        -      - /proc
+/dev/hd10opt       4,50      1,80   61%    31495     7% /opt
+/dev/livedump      0,50      0,50    1%        4     1% /var/adm/ras/livedump
+/dev/fslv00        1,50      0,64   58%        9     1% /audit
+/dev/GPFSap     1900,00    886,54   54%   856030    52% /GPFSap
+/dev/WORKint     400,00    168,61   58%   148089    71% /WORKint
+
